@@ -1,57 +1,27 @@
-# Ironhack Data Analytics Module 1 Project
+# Ironhack Data Analytics Module 2 Project
 
-Survey answers Pipeline showing quantity and percentage of respondents per country, job and living area.
+Diamonds dataset analysis to see how different parameters affect to price. This analysis will later be used to build a model that estimates price.
 
 ---
 
 ### :computer: **Technology stack**
 Python
+Tableau
 
 ### :boom: **Core technical concepts**
-Reporting tool to analyze survey results.
-
-It will generate a .csv updated every time the script runs.
+Statistical analysis of a diamonds dataset and creation of a Tableau Dashboard for easier visualization.
 
 ### :wrench: **Configuration**
-See needed libraries in: requirements.txt.
+Database used can be found in the following link: https://www.kaggle.com/shivam2503/diamonds
 
-Database used can be found in: /data/raw/raw_data_project_m1.db.
+Libraries needed:
+	- Numpy
+	- Pandas
+	- Matplotlib
+	- Seaborn
 
 ### :see_no_evil: **Usage**
-When running the script it will export all countries by default. 
+Tableau Dashboard Link: 
 
-In case filtering by one or more countries is needed, run the script using `-c or --country` parameters including a blank space between each country as shown below:
-
-`python main_script -c Spain Austria`
-
-The script will export a .csv per each stage of the project which you'll find in the /data folder.
-
-### :file_folder: **Folder structure**
 ```
-└── project
-    ├── __trash__
-    ├── .gitignore
-    ├── .env
-    ├── requeriments.txt
-    ├── README.md
-    ├── main_script.py
-    ├── notebooks
-    │   ├── Acquire_Wrangling_Functions.ipynb
-    │   └── Analysis_Functions.ipynb
-    ├── p_acquisition
-    │   └── m_acquisition.py
-    ├── p_analysis
-    │   └── m_analysis.py
-    ├── p_wrangling
-    │   └── m_wrangling.py
-    └── data
-        ├── raw
-        ├── processed
-        └── results
-``` 
-
-### :information_source: **Further info**
-Web Scraping link: https://iban.com/country-codes
-
 ---
-
