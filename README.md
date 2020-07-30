@@ -4,16 +4,13 @@ Diamonds dataset analysis to see how different parameters affect to price. This 
 
 ---
 
-### :computer: **Technology stack**
-Python and Tableau
+### :computer: **Job done**
 
-### :boom: **Core technical concepts**
-Statistical analysis of a diamonds dataset and creation of a Tableau Dashboard for easier visualization.
 
-### :wrench: **Configuration**
+### :boom: **Main Conclussions**
+
+
+### :wrench: **Technology Stack and Configuration**
+Used Python, libraries needed: Numpy, Pandas, Matplotlib and Seaborn. Also used Tableau, where you'll find the Dashboard created in:
+
 Database used can be found in the following link: https://www.kaggle.com/shivam2503/diamonds
-
-Libraries needed: Numpy, Pandas, Matplotlib and Seaborn
-
-### :see_no_evil: **Usage**
-Tableau Dashboard Link: 
