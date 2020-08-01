@@ -16,7 +16,8 @@ I've made two main analysis:
 Next steps: estimate the line's formula for each subgroup created so the price can be estimated very accurately.
 
 ### :wrench: **Technology Stack and Configuration**
-Used Python, libraries needed: Numpy, Pandas, Matplotlib and Seaborn. Also used Tableau, where you'll find the Dashboard created in:
+Used Python, libraries needed: Numpy, Pandas, Matplotlib and Seaborn. Also used Tableau.
 
 Database used can be found in the following link: https://www.kaggle.com/shivam2503/diamonds
+
 Tableau Dashboard can be seen here: https://public.tableau.com/profile/marta.p.rez.puerta#!/vizhome/DiamondsDataset/DiamondsDashboard
